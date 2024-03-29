@@ -13,3 +13,7 @@ These important KPIs were created through the use of pivot tables, after the dat
 Casualties from 2022 and 2023 were present in the datasheet, which led to the creation of a timeline to identify monthly trends. Furthermore the dashboard was created to find specific information from 2022
 and 2023 with multiple filters and the use of relevant graphs for effective visualisation. A data analysis sheet was created to showcase the various pivot tables used to analyse data and hyperlinks were added for seamless 
 transition from the data analysis sheet to the dashboard.
+
+
+![image](https://github.com/Gerrad-O/Road-Accident-Project/assets/161075394/e81a2caf-eca9-4f11-8c21-b5253768451c)
+
